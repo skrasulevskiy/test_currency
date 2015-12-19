@@ -26,7 +26,7 @@ class currencyWorld {
   }
 }
 
-
+//initializate our class
 $all_courses = new currencyWorld(22, 25, 8);
 
 $dollar = $all_courses->get_current_course('dollar', 50);
