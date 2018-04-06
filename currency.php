@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Get current currency test
+ * Get current currency test2
  * Class currencyWorld
  */
 class currencyWorld {
